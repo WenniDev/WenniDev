@@ -14,9 +14,13 @@
 
 ### 🔗 Contacts & Socials 
 
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=gray&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joachimpadovani-/)
-![Discord @whenever_](https://img.shields.io/static/v1?label=&message=Discord+%40whenever_&color=gray&style=for-the-badge&logo=Discord)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joachimpadovani-)
+![Discord @whenever_](https://img.shields.io/badge/Discord%20@whenever__-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 [![By - e-mail](https://img.shields.io/static/v1?label=By&message=e-mail&color=ff69b4&style=for-the-badge)](mailto:joachim.padovani@gmail.com)
+<br>
+[![osu! Whenever](https://img.shields.io/badge/osu-f668a7?style=for-the-badge&logo=osu&logoColor=white)](https://osu.ppy.sh/users/10380569)
+[![MyAnimeList Whenever_](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Whenever_)
+[![Anilist Whenever](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white)](https://anilist.co/user/Whenever)
 ---
 
 ### 📈 Github Stats
