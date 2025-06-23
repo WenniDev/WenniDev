@@ -10,7 +10,7 @@
 - 🎮 Rhythm games enjoyer
 - 🐴 Horse enthusiast
 - 🇯🇵 Anime consumer & fansubber
-- 🎵 I love J-Pop and BASS
+- 🎵 I love J-Pop and EDM
 
 ### 🔗 Contacts & Socials 
 
