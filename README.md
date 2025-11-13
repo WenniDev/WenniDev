@@ -5,7 +5,7 @@
 
 - 💻 Intern @ [Sidely](https://www.go-sidely.com/)
 
-- 🇫🇷 I'm 20 years old
+- 🇫🇷 I'm 21 years old
 - 🎓 Studying at [42](https://42.fr)
 - 🎮 Rhythm games enjoyer
 - 🐴 Horse enthusiast
