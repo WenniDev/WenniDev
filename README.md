@@ -3,8 +3,7 @@
 
 <!-- <h2 align="center"> I'm actively looking for new opportunities! Contact me by email at <a href="mailto:lisieshy@catgirl.fr">lisieshy@catgirl.fr</a> if you want to talk!</h2> -->
 
-- 💻 Intern @ [Sidely](https://www.go-sidely.com/)
-
+- 💻 Looking for an Internship
 - 🇫🇷 I'm 21 years old
 - 🎓 Studying at [42](https://42.fr)
 - 🎮 Rhythm games enjoyer
